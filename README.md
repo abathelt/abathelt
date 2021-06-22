@@ -3,7 +3,7 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/abathelt/)
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/aleksandrabathelt/)
 <br>
-- ❓ InfoSec Prefessional working on Blue side.
+- ❓ InfoSec Prefessional, Blue Teamer
 - 🔭 I’m currently working on improving my investigation skills (Malware Analysis and Incident Response)
 - 🌱 I’m currently learning for Security+ exam
 - 👯 I’m looking to collaborate with other content creators
