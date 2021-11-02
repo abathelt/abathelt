@@ -9,12 +9,10 @@
 - 🥅 2021 Goals: Pass Security+ SY0-601 - passed on Oct. 1st, 2021
 - ⚡ Fun fact: I love to google things and making notes
 
-<img align="left" src="https://media.giphy.com/media/AsguuuUg8M1qzkk5Ii/giphy.gif"/> 
-I love connecting with people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself) 
-
-
 <!--
 **abathelt/abathelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="left" src="https://media.giphy.com/media/AsguuuUg8M1qzkk5Ii/giphy.gif"/> 
+I love connecting with people from around the world, so if you want to be my friend, feel free to reach out and introduce yourself (don’t just say hi, tell me about yourself) 
 
 Here are some ideas to get you started:
 
