@@ -6,7 +6,8 @@
 - ❓ InfoSec Prefessional, Blue Teamer
 - 🔭 I’m currently working on improving my investigation skills (Malware Analysis and Incident Response)
 - 🌱 I’m currently learning Google Data Analytics
-- 🥅 2021 Goals: Pass Security+ SY0-601 - passed on Oct. 1st, 2021
+- 🥅 2021 Goal: Pass Security+ SY0-601 - passed on Oct. 1st, 2021
+      NEW Goal: Google Data Analytics - in progress 
 - ⚡ Fun fact: I love to google things and making notes
 
 <!--
