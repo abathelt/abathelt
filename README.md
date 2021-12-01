@@ -5,12 +5,12 @@
 [<img src="https://tryhackme-badges.s3.amazonaws.com/abathelt.png" alt="TryHackMe">](https://tryhackme-badges.s3.amazonaws.com/abathelt.png)
 
 <br>
-- ❓ InfoSec Prefessional, Blue Teamer
-- 🔭 I’m currently working on improving my investigation skills (Malware Analysis and Incident Response)
-- 🌱 I’m currently learning Google Data Analytics
+- ❓ InfoSec Prefessional, Blue Teamer<br>
+- 🔭 I’m currently working on improving my investigation skills (Malware Analysis and Incident Response)<br>
+- 🌱 I’m currently learning Google Data Analytics<br>
 - 🥅 2021 Goal: Pass Security+ SY0-601 - passed on Oct. 1st, 2021 <br>
--     NEW Goal: Google Data Analytics - in progress 
-- ⚡ Fun fact: I love to google things and making notes
+-     NEW Goal: Google Data Analytics - in progress <br>
+- ⚡ Fun fact: I love to google things and making notes<br>
 
 <!--
 **abathelt/abathelt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
