@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on improving my investigation skills (Malware Analysis and Incident Response)<br>
 - 🌱 I’m currently learning Google Data Analytics<br>
 - 🥅 2021 Goal: Pass Security+ SY0-601 - passed on Oct. 1st, 2021 <br>
--     NEW Goal: Google Data Analytics - in progress <br>
+- NEW Goal: Google Data Analytics - in progress <br>
 - ⚡ Fun fact: I love to google things and making notes<br>
 
 <!--
