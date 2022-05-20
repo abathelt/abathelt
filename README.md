@@ -6,7 +6,7 @@
 <br><br>
 - ❓ InfoSec Prefessional, Blue Teamer<br>
 - 🔭 I’m currently working on improving my investigation skills<br>
-- 🌱 I’m currently learning Pentesting<br>
+- 🌱 I’m currently learning skills for Incident Response and Pentesting<br>
 - 🥅 2022 Goal: PNTP exam <br>
 - ⚡ Fun fact: I love to google things and making notes<br>
 
