@@ -4,7 +4,7 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/aleks.secure/)
 
 <br><br>
-- ❓ InfoSec Prefessional, Blue Teamer<br>
+- ❓ InfoSec Prefessional, Incident Response, Blue Teamer<br>
 - 🌱 Improvimg my IR skills<br>
 - ⚡ Fun fact: I love to google things and making notes<br>
 
